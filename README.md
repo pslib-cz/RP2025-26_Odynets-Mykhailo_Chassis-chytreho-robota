@@ -1,34 +1,3 @@
-# Podvozek
-
-## Před začatkem prace:
-- nastudovat robotiku, elektroniku, 3D modelování
-- udělat výzkum světu robotu
-- promyslet potřebné cíle a způsoby jejich realizace
-
-## Na podvozku se musí umístit:
-- 2 motory
-- ultrasonický senzor
-- ir senzor
-- baterie
-- robot controller (Mictobit nebo Raspberry Pi)
-- motor driver
-- kabely
-
-## Dodatečně
-- Displej
-- Kamera
-- Lidar
-
-## 3D model:
-- 2 kola
-- modularní
-- - každý modul má svoje použití (Napřiklad modul pro motory, modul pro ultrasonický senzor atd)
-  - Systém pro spojení modulu
-
-## Vybrané součastky:
-Raspberry Pi
-
-
 # 🤖 Modulární 2WD Robotický Podvozek
 
 Tento projekt definuje univerzální mechanickou platformu pro malá kolová vozidla. Konstrukce klade důraz na extrémní modularitu a snadnou vyrobitelnost na běžných FDM 3D tiskárnách.
