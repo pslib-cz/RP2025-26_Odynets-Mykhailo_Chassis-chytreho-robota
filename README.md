@@ -76,6 +76,8 @@ Podvozek je připraven pro osazení následující sestavou (nebo jejich ekvival
 
 ## Odkazy
 
+[Figma](https://www.figma.com/design/ZcQxUz6sy2JSxxt4enyGso/Design?node-id=0-1&t=Q1jyB0c1auf92QdB-1)
+
 [TurtleBot 3](https://www.turtlebot.com/turtlebot3/)
 
 [ORP systém](https://openroboticplatform.com/)
@@ -87,3 +89,4 @@ Podvozek je připraven pro osazení následující sestavou (nebo jejich ekvival
 ## Nápady
 
 - Screwless konstrukce (nebo aspoň části)
+- Udělat tabulku pinu
