@@ -80,6 +80,10 @@ Podvozek je připraven pro osazení následující sestavou (nebo jejich ekvival
 
 [ORP systém](https://openroboticplatform.com/)
 
+## Inspirace
+
+![TutrleBot 3 Burger](https://www.robotsepeti.com/turtlebot-3-burger-rpi4-2gb-mobile-robot-platform-robotis-901-0118-202-25829-78-B.jpg)
+
 ## Nápady
 
 - Screwless konstrukce (nebo aspoň části)
