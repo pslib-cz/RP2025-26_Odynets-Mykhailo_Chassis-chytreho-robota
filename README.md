@@ -8,9 +8,10 @@
 ## Na podvozku se musí umístit:
 - 2 motory
 - ultrasonický senzor
-- baterii
+- ir senzor
+- baterie
 - robot controller (Mictobit nebo Raspberry Pi)
-- motor controller
+- motor driver
 - kabely
 
 ## Dodatečně
