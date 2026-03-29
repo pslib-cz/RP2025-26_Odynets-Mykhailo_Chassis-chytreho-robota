@@ -43,12 +43,12 @@ Podvozek je připraven pro osazení následující sestavou (nebo jejich ekvival
 
 | Kategorie            | Komponenta              | Specifikace |
 |---------------------|------------------------|------------|
-| 🚗 Pohon            | 2x DC Motor            | Typicky žlutý "TT motor" (převodovka 1:48) |
+| 🚗 Pohon            | 2x DC Motor            | Krokový 28BYJ-48 |
 | ⚖️ Stabilizace      | 1x Caster Wheel        | Otočné kuličkové kolečko (v ložisku) |
 | 🧠 Řízení           | Micro:bit / Raspberry Pi | Hlavní procesorová jednotka |
 | ⚡ Výkonová část     | Motor Driver           | L298N, L293D nebo DRV8833 |
 | 📡 Senzorika (Dálka)| Ultrasonický senzor    | HC-SR04 pro detekci překážek |
-| 🛣 Senzorika (Trasa)| IR Senzor              | Infračervený modul pro sledování čáry |
+| 🛣 Senzorika (Trasa)| IR Senzor              | TCRT5000 pro sledování čáry |
 | 👁️ Senzorika (Obraz) | Kamera                 | Např. Raspberry Pi Camera Module |
 | 🧭 Senzorika (Mapování) | LiDAR               | Např. VL53L0X / RPLIDAR |
 | 🖥️ Výstup             | Displej                | Malý (např. SSD1306, I2C) |
@@ -73,3 +73,12 @@ Podvozek je připraven pro osazení následující sestavou (nebo jejich ekvival
 - Autonomní robot s detekcí překážek  
 - Edukační platforma pro programování a robotiku  
 - IoT experimenty
+
+## Odkazy
+
+[TurtleBot 3](https://www.turtlebot.com/turtlebot3/)
+[ORP systém](https://openroboticplatform.com/)
+
+## Nápady
+
+- Screwless konstrukce (nebo aspoň části)
