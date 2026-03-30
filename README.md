@@ -90,3 +90,9 @@ Podvozek je připraven pro osazení následující sestavou (nebo jejich ekvival
 
 - Screwless konstrukce (nebo aspoň části)
 - Udělat tabulku pinu
+
+## 📂 Struktura repozitáře
+    /stl - Soubory pro 3D tisk (jednotlivé díly).
+    /cad - Zdrojové soubory (např. STEP, f3d nebo odkaz na Onshape).
+    /code - Ukázkové kódy pro Micro:bit (MakeCode/Python) a Raspberry Pi.
+    /docs - Schémata zapojení a fotky z montáže.
