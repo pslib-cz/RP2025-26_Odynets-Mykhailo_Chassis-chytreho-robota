@@ -46,7 +46,7 @@ Podvozek je připraven pro osazení následující sestavou (nebo jejich ekvival
 | 🚗 Pohon            | 2x DC Motor            | Krokový 28BYJ-48 |
 | ⚖️ Stabilizace      | 1x Caster Wheel        | Otočné kuličkové kolečko (v ložisku) |
 | 🧠 Řízení           | Micro:bit / Raspberry Pi | Hlavní procesorová jednotka |
-| ⚡ Výkonová část     | Motor Driver           | L298N, L293D nebo DRV8833 |
+| ⚡ Výkonová část     | Motor Driver           | ULN2003 |
 | 📡 Senzorika (Dálka)| Ultrasonický senzor    | HC-SR04 pro detekci překážek |
 | 🛣 Senzorika (Trasa)| IR Senzor              | TCRT5000 pro sledování čáry |
 | 👁️ Senzorika (Obraz) | Kamera                 | Např. Raspberry Pi Camera Module |
@@ -82,14 +82,18 @@ Podvozek je připraven pro osazení následující sestavou (nebo jejich ekvival
 
 [ORP systém](https://openroboticplatform.com/)
 
+[HW Kitchen](https://www.hwkitchen.cz/)
+
 ## Inspirace
 
 ![TutrleBot 3 Burger](https://www.robotsepeti.com/turtlebot-3-burger-rpi4-2gb-mobile-robot-platform-robotis-901-0118-202-25829-78-B.jpg)
+Bigclown stavebnice
 
 ## Nápady
 
 - Screwless konstrukce (nebo aspoň části)
 - Udělat tabulku pinu
+- Vyřešit trimovani motoru
 
 ## 📂 Struktura repozitáře
     /stl - Soubory pro 3D tisk (jednotlivé díly).
