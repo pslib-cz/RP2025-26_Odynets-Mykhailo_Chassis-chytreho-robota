@@ -3,6 +3,7 @@
 Сhassis 3D tištěného vozítka, které se může stát základem platformy chytrého robota Bessie
 
 [Figma](https://www.figma.com/board/z2sys4jyA4PsdDyRYrDXgL/Ideas?node-id=0-1&t=Aov2YQ2UH2wKDupg-1)
+[Ročníková práce](https://prace.pslib.cz/works/6831)
 
 ## 📂 Struktura repozitáře
     /cad - Zdrojové soubory (např. STEP, f3d nebo odkaz na Onshape).
