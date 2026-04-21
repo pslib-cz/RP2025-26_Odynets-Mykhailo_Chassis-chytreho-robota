@@ -1,3 +1,7 @@
+# Chassis robota Bessie
+
+Práce se zabývá 
+
 [Figma](https://www.figma.com/board/z2sys4jyA4PsdDyRYrDXgL/Ideas?node-id=0-1&t=Aov2YQ2UH2wKDupg-1)
 
 ## 📂 Struktura repozitáře
