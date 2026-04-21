@@ -1,6 +1,6 @@
 # Chassis robota Bessie
 
-Práce se zabývá 
+Сhassis 3D tištěného vozítka, které se může stát základem platformy chytrého robota Bessie
 
 [Figma](https://www.figma.com/board/z2sys4jyA4PsdDyRYrDXgL/Ideas?node-id=0-1&t=Aov2YQ2UH2wKDupg-1)
 
