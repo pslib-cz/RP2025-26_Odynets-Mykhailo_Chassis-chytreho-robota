@@ -7,5 +7,5 @@
 ## 📂 Struktura repozitáře
     /cad - Zdrojové soubory (např. STEP, f3d nebo odkaz na Onshape).
     /code - Ukázkové kódy pro Micro:bit (MakeCode/Python) a Raspberry Pi.
-    /docs - manuály a vysvětlení
-    /electronics - Schémata zapojení a fotky z montáže.
+    /docs - manuály na replikaci a vysvětlení
+    /electronics - Součástky, schémata zapojení a fotky z montáže.
