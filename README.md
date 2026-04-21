@@ -1,4 +1,4 @@
-[Figma](https://www.figma.com/design/ZcQxUz6sy2JSxxt4enyGso/Design?node-id=0-1&t=Q1jyB0c1auf92QdB-1)
+[Figma](https://www.figma.com/board/z2sys4jyA4PsdDyRYrDXgL/Ideas?node-id=0-1&t=Aov2YQ2UH2wKDupg-1)
 
 ## 📂 Struktura repozitáře
     /cad - Zdrojové soubory (např. STEP, f3d nebo odkaz na Onshape).
