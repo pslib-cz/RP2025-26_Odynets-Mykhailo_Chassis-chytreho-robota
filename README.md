@@ -8,6 +8,11 @@
 
 [Ročníková práce](https://prace.pslib.cz/works/6831)
 
+## Code
+
+MakeCode knihovna pro ovládání krokových motoru
+[https://github.com/Mykhailo-Odynets/pxt-bessie](https://github.com/Mykhailo-Odynets/pxt-bessie)
+
 ## 📂 Struktura repozitáře
     /cad - Zdrojové soubory (např. STEP, f3d nebo odkaz na Onshape).
     /code - Ukázkové kódy pro Micro:bit (MakeCode/Python) a Raspberry Pi.
