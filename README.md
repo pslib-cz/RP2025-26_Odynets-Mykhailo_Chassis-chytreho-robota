@@ -10,8 +10,7 @@
 
 ## Code
 
-MakeCode knihovna pro ovládání krokových motoru
-
+MakeCode knihovna pro ovládání krokových motoru  
 [https://github.com/Mykhailo-Odynets/pxt-bessie](https://github.com/Mykhailo-Odynets/pxt-bessie)
 
 ## 📂 Struktura repozitáře
