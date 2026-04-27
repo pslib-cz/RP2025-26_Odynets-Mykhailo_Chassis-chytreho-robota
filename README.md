@@ -13,7 +13,7 @@
 MakeCode knihovna pro ovládání krokových motoru  
 [https://github.com/Mykhailo-Odynets/pxt-bessie](https://github.com/Mykhailo-Odynets/pxt-bessie)
 
-Kód pro ovládání Bessie pro Micro:Bit
+Kód pro ovládání Bessie pro Micro:Bit  
 [https://github.com/Mykhailo-Odynets/bessie-car_bit](https://github.com/Mykhailo-Odynets/bessie-car_bit)
 
 ## 📂 Struktura repozitáře
